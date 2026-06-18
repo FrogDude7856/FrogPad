@@ -1,6 +1,6 @@
 # FrogPad
 A 12-key hackpad for music with a .91in OLED and a frog-shaped case.
-<img width="761" height="796" alt="image" src="https://github.com/user-attachments/assets/fd686b70-c8f2-4a01-a090-169c16448631" />
+<img width="847" height="774" alt="Screenshot 2026-06-18 141656" src="https://github.com/user-attachments/assets/3bad593c-2dbc-4513-bca8-97a66eb840dd" />
 # Demo: (insert demo here when I have it)
 ('.')
 # Features
