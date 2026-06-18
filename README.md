@@ -1,8 +1,7 @@
 # FrogPad
 A 12-key hackpad for music with a .91in OLED and a frog-shaped case.
 <img width="847" height="774" alt="Screenshot 2026-06-18 141656" src="https://github.com/user-attachments/assets/3bad593c-2dbc-4513-bca8-97a66eb840dd" />
-# Demo: (insert demo here when I have it)
-('.')
+
 # Features
 - Volume and music playback control as default
 - 12 Cherry MX compatable mechanical keys
@@ -18,7 +17,18 @@ Thank you to:
 - QMK's large database of tutorials, for teaching me how to use their software
 
 # BOM
-(to be added)
+1x Seeed XIAO RP2040 microcontroller
+1x PCB (see Production folder)
+2x 3D printed parts: 1x TOP and 1x BOTTOM (See Production folder)
+12x MX-Style mechanical switches
+12x Keycaps (I am using blank DSA keycaps)
+12x 1N4148 through-hole diodes
+1x 0.91in OLED screen
+4x M3×16mm screws
+4x M3×5×4mm heatset inserts
+A sodering iron (for assembly)
+Sanity (optional)
+Paint pens/googly eyes for adding case details and labling keys (optional)
 
 # Progress Images (Screenshots of scematic, PCB, and case on their own)
 <img width="793" height="703" alt="Screenshot 2026-06-11 181711" src="https://github.com/user-attachments/assets/a93b1020-5aff-4d30-82b1-1411542fd32e" />
