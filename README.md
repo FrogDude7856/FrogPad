@@ -19,3 +19,8 @@ Thank you to:
 
 # BOM
 (to be added)
+
+# Progress Images (Screenshots of scematic, PCB, and case on their own)
+<img width="793" height="703" alt="Screenshot 2026-06-11 181711" src="https://github.com/user-attachments/assets/a93b1020-5aff-4d30-82b1-1411542fd32e" />
+<img width="333" height="446" alt="Screenshot 2026-06-15 134356" src="https://github.com/user-attachments/assets/0fdb227f-cab1-4535-b932-5e71084d6ccd" />
+<img width="981" height="580" alt="Screenshot 2026-06-16 195348" src="https://github.com/user-attachments/assets/650bd11e-f788-4b31-ac0d-f8dc6cf26758" />
